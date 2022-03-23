@@ -1,4 +1,5 @@
-/*const sumAll = function(a,b) {
+/* first failed version
+const sumAll = function(a,b) {
     
     if(a>b) {
         let finalSum = 0;
@@ -18,7 +19,7 @@
     };
 };*/
 
-/*
+/* failed version
     const sumAll = function(a,b) {
         if (a < 0 || b < 0){return 'ERROR'}
         else if(a === NaN || b === NaN){return 'ERROR'}
